@@ -152,12 +152,24 @@ Este projeto foi feito para rodar como um container na OCI usando o
 > container diretamente pelo console, sem gerenciar uma VM manualmente.
 
 ### 🔗 Evidência do deploy
-- **Link público:** `https://SUBSTITUA-PELO-SEU-IP-OU-DOMINIO:8080`
-- **Print da aplicação em funcionamento:** adicione o arquivo de imagem em
-  `docs/print-deploy.png` e referencie aqui:
-  ```markdown
-  ![Aplicação em produção na OCI](docs/print-deploy.png)
-  ```
+- **Link público:** `https://SUBSTITUA-- **Link público:** [https://challenge-em-ia.onrender.com](https://challenge-em-ia.onrender.com)
+- **Prints da aplicação em funcionamento:**
+
+
+
+![Aplicação em produção - exemplo 1](Screenshot_20260824_024910_Chrome.jpg)
+
+
+
+
+
+![Aplicação em produção - exemplo 2](Screenshot_20260824_025208_Chrome.jpg)
+
+
+
+
+![Aplicação em produção - exemplo 3]
+(Screenshot_20260824_025505_Chrome.jpg)
 
 ---
 
